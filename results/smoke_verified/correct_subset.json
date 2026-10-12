@@ -1,0 +1,24 @@
+[
+  {
+    "image_id": 484029,
+    "question": "What color is the sign?",
+    "question_id": 484029005,
+    "category": "color",
+    "answer": "red",
+    "all_answers": [
+      "red",
+      "red",
+      "red",
+      "red",
+      "red and white",
+      "red",
+      "red",
+      "red",
+      "red",
+      "red"
+    ],
+    "answer_type": "other",
+    "question_type_original": "what color is the",
+    "image_filename": "COCO_val2014_000000484029.jpg"
+  }
+]

@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyCharm
+.idea/
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# Dataset / large files
+data/
+*.zip
+
+# Model weights
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+
+# Cache / logs
+.cache/
+*.log
+
+# Secrets
+.env
+*.key

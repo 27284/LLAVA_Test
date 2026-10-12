@@ -1,0 +1,51 @@
+{
+  "metrics": {
+    "overall": {
+      "soft_accuracy": {
+        "n": 1,
+        "images": 1,
+        "mean": 1.0,
+        "ci95": [
+          1.0,
+          1.0
+        ]
+      },
+      "exact_match": {
+        "n": 1,
+        "images": 1,
+        "mean": 1.0,
+        "ci95": [
+          1.0,
+          1.0
+        ]
+      }
+    },
+    "color": {
+      "soft_accuracy": {
+        "n": 1,
+        "images": 1,
+        "mean": 1.0,
+        "ci95": [
+          1.0,
+          1.0
+        ]
+      },
+      "exact_match": {
+        "n": 1,
+        "images": 1,
+        "mean": 1.0,
+        "ci95": [
+          1.0,
+          1.0
+        ]
+      }
+    }
+  },
+  "total_expected": 1,
+  "evaluated": 1,
+  "missing": 0,
+  "correct": 1,
+  "threshold": 1.0,
+  "reclassified": false,
+  "predictions": "results\\smoke_verified\\baseline_predictions.csv"
+}

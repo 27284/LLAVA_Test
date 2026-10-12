@@ -1,0 +1,2 @@
+﻿question_id,image_id,image_filename,category,question,gt_answer,predicted_answer,soft_accuracy,exact_match,correct
+484029005,484029,COCO_val2014_000000484029.jpg,color,What color is the sign?,red,Red,1.0,1,1

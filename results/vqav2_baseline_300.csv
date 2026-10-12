@@ -1,0 +1,301 @@
+﻿question_id,image_id,image_filename,category,question,gt_answer,pred_answer
+200638002,200638,COCO_val2014_000000200638.jpg,color,What color are the chairs?,blue,The chairs are blue.
+177889001,177889,COCO_val2014_000000177889.jpg,object,What is the color of the surfboard?,blue,The color of the surfboard is blue.
+382207006,382207,COCO_val2014_000000382207.jpg,object,What type of food is this?,italian,"This is a variety of Mediterranean food, which includes a mix of vegetables, fruits"
+36484007,36484,COCO_val2014_000000036484.jpg,count,How many pets can be seen?,1,"There is only one pet, a cat, visible in the image."
+514468004,514468,COCO_val2014_000000514468.jpg,color,What color is the board?,white,The board is white.
+465556000,465556,COCO_val2014_000000465556.jpg,color,What color is the man's shirt?,gray,The man's shirt is gray.
+93685001,93685,COCO_val2014_000000093685.jpg,color,What color is the board?,white,The board is white.
+224757001,224757,COCO_val2014_000000224757.jpg,object,What type of sport ball is shown?,soccer,The sport ball shown in the image is a soccer ball.
+537280002,537280,COCO_val2014_000000537280.jpg,yes_no,Is it wet outside?,yes,"Yes, it is wet outside, as the woman is walking through the rain while holding an umbre"
+557923002,557923,COCO_val2014_000000557923.jpg,count,How many bikes are shown?,2,There are two bikes shown in the image.
+64335002,64335,COCO_val2014_000000064335.jpg,count,How many clouds are in the sky?,1,There are no clouds in the sky.
+488789001,488789,COCO_val2014_000000488789.jpg,count,How many lanes of traffic are on the bridge?,6,There are four lanes of traffic on the bridge.
+134886020,134886,COCO_val2014_000000134886.jpg,object,What is in the sky?,plane,A large airplane is flying in the sky.
+269306002,269306,COCO_val2014_000000269306.jpg,count,How many birds are there?,6,There are four birds in the image.
+86168005,86168,COCO_val2014_000000086168.jpg,count,How many cats are there?,1,There is only one cat in the image.
+106757013,106757,COCO_val2014_000000106757.jpg,count,How many people are in this picture?,1,There are two people in this picture.
+160220002,160220,COCO_val2014_000000160220.jpg,spatial,Where are the elephants?,zoo,"The elephants are in a zoo enclosure, standing next to a pole and a tree."
+392850008,392850,COCO_val2014_000000392850.jpg,color,What color is the lower apple?,red,The lower apple is red.
+135155004,135155,COCO_val2014_000000135155.jpg,count,How many dimples are in the snow?,0,The image does not provide enough information to determine the exact number of dimples in the snow. However
+447160005,447160,COCO_val2014_000000447160.jpg,spatial,Where is the man flying a kite?,yes,"The man is flying a kite in a park, surrounded by trees."
+532211001,532211,COCO_val2014_000000532211.jpg,yes_no,Are the tree leaves green?,no,"Yes, the tree leaves are green."
+346107002,346107,COCO_val2014_000000346107.jpg,color,What colors are the engine?,green,The engine is green and yellow.
+183889001,183889,COCO_val2014_000000183889.jpg,object,What is he holding?,phone,The man is holding a cell phone.
+262466001,262466,COCO_val2014_000000262466.jpg,spatial,What tool is hanging behind the flowers?,shovel,A shovel is hanging behind the flowers.
+510606002,510606,COCO_val2014_000000510606.jpg,object,What are the white items?,urinals,The white items are urinals.
+567383000,567383,COCO_val2014_000000567383.jpg,spatial,Where are the birds?,on clock,"The birds are hanging from a clock, which is mounted on a building."
+292931003,292931,COCO_val2014_000000292931.jpg,object,What are these two kittens doing?,sleeping,The two kittens are sleeping or resting in a bowl or a ceramic
+16730016,16730,COCO_val2014_000000016730.jpg,object,What kind of door is in the room?,french,"There is a large, wooden door in the room."
+53952036,53952,COCO_val2014_000000053952.jpg,yes_no,Is the woman in front of a fireplace?,no,"No, the woman is not in front of a fireplace. She is in a kitchen, standing"
+16241002,16241,COCO_val2014_000000016241.jpg,spatial,What is flying in between these two buildings?,plane,A large passenger jet is flying in between these two buildings.
+345456003,345456,COCO_val2014_000000345456.jpg,spatial,Where is a vending machine?,building,"A vending machine is located near the train tracks, where passengers can easily access it while waiting for"
+242615002,242615,COCO_val2014_000000242615.jpg,count,How many pillows are there?,6,There are four pillows on the bed.
+49048000,49048,COCO_val2014_000000049048.jpg,color,What color is the girl's dress?,blue,The girl's dress is blue.
+147375005,147375,COCO_val2014_000000147375.jpg,color,What color is the boy's shirt?,blue,The boy's shirt is blue.
+536292002,536292,COCO_val2014_000000536292.jpg,spatial,Where is the animal?,bear,"The animal is in the woods, standing on a hillside and grazing on the vegetation."
+164969011,164969,COCO_val2014_000000164969.jpg,count,How many slices is the pizza cut into?,6,The pizza is cut into six slices.
+347506014,347506,COCO_val2014_000000347506.jpg,color,What color scheme is the picture?,color,"The picture has a color scheme of blue, white, and yellow."
+574424002,574424,COCO_val2014_000000574424.jpg,object,What kind of electronic is this?,laptop,This is a laptop computer.
+528962004,528962,COCO_val2014_000000528962.jpg,yes_no,Does the truck have windshield wipers?,yes,"Yes, the truck has windshield wipers."
+434247001,434247,COCO_val2014_000000434247.jpg,color,What color is the sand?,brown,The sand is brown.
+398803002,398803,COCO_val2014_000000398803.jpg,yes_no,Is the woman married?,no,"Yes, the woman is married."
+16257003,16257,COCO_val2014_000000016257.jpg,object,What is this kid eating?,carrot,The kid is eating a toothbrush.
+373793003,373793,COCO_val2014_000000373793.jpg,object,What type of shower is it?,handheld,The shower in the image is a walk-in shower.
+431479003,431479,COCO_val2014_000000431479.jpg,count,How many handles are seen in the picture?,5,There are two handles visible in the picture.
+143458015,143458,COCO_val2014_000000143458.jpg,object,What are these people doing?,socializing,"These people are attending a wedding, as evidenced by the bride and groom"
+561412004,561412,COCO_val2014_000000561412.jpg,count,What time does the clock say?,8:05,The clock on the tower says 12:00.
+508339000,508339,COCO_val2014_000000508339.jpg,yes_no,Is the woman having tea?,yes,"Yes, the woman is having tea. She is sitting at a table with a cup of tea in"
+80153000,80153,COCO_val2014_000000080153.jpg,object,What is with the man?,dog,The man is accompanied by his dog while skiing.
+82229002,82229,COCO_val2014_000000082229.jpg,count,How many TVs are in the picture?,2,There are two TVs in the picture.
+346586003,346586,COCO_val2014_000000346586.jpg,color,What color is the play button on the remote?,gray,The play button on the remote is yellow.
+257624003,257624,COCO_val2014_000000257624.jpg,color,What color are these kids pants?,pink,The kids pants are pink.
+398209001,398209,COCO_val2014_000000398209.jpg,yes_no,Is the small mirror attached to the wall?,no,"Yes, the small mirror is attached to the wall."
+333130005,333130,COCO_val2014_000000333130.jpg,count,How many trains are there?,2,There are two trains in the image.
+567552000,567552,COCO_val2014_000000567552.jpg,count,How many keyboards are present?,1,There are two keyboards present on the desk.
+188053018,188053,COCO_val2014_000000188053.jpg,spatial,Where is the snowman?,no snowman,"The snowman is not present in the image. Instead, there is a teddy bear with a"
+208050012,208050,COCO_val2014_000000208050.jpg,yes_no,Are these two headed to prom?,no,"No, these two are not headed to prom. They are simply enjoying a social gathering"
+46859001,46859,COCO_val2014_000000046859.jpg,color,What color is the water tower?,white,The water tower is white.
+38666003,38666,COCO_val2014_000000038666.jpg,spatial,Where is his mouth?,behind bear,The boy's mouth is covered by the teddy bear's face.
+57124002,57124,COCO_val2014_000000057124.jpg,yes_no,Does this room look clean?,no,"No, the room does not look clean. The toilet is dirty, and there is a"
+329900022,329900,COCO_val2014_000000329900.jpg,yes_no,Is there snow in this picture?,no,"No, there is no snow in this picture. The scene is set in a city street with a"
+415828005,415828,COCO_val2014_000000415828.jpg,spatial,"What is strung up over the street, between the buildings?",wires,"There is a power line strung up over the street, between the buildings."
+464814001,464814,COCO_val2014_000000464814.jpg,spatial,Where is the window?,behind couch,"The window is located in the living room, providing natural light to the space."
+270376003,270376,COCO_val2014_000000270376.jpg,yes_no,Are there any clocks in the picture?,no,"No, there are no clocks in the picture. The image features a tall building with a large"
+233033002,233033,COCO_val2014_000000233033.jpg,count,How many boards make up the deck?,20,"The deck is made up of several boards, but the exact number cannot be determined from the image"
+574184002,574184,COCO_val2014_000000574184.jpg,color,What color are the cat's eyes?,black,The cat's eyes are blue.
+307209000,307209,COCO_val2014_000000307209.jpg,yes_no,Are the animals in their natural habitat?,yes,"Yes, the animals are in their natural habitat. The image shows a brown bear walking through the water"
+20268000,20268,COCO_val2014_000000020268.jpg,color,What color is the liquid in the cup?,yellow,The liquid in the cup is yellow.
+194097001,194097,COCO_val2014_000000194097.jpg,object,What are the children's hair color?,blonde,The children's hair color is blonde.
+262227003,262227,COCO_val2014_000000262227.jpg,color,What color is the ribbon?,purple,Purple
+17867001,17867,COCO_val2014_000000017867.jpg,yes_no,Are there candle on the table?,yes,"Yes, there are candles on the table."
+494456000,494456,COCO_val2014_000000494456.jpg,count,How many people are wearing skis?,2,There are two people wearing skis in the image.
+536166000,536166,COCO_val2014_000000536166.jpg,object,What are the man on horses taking part in?,herding,The man on horses is taking part in a cowboy event or a rodeo. In the image
+502063001,502063,COCO_val2014_000000502063.jpg,count,How many boards make up the deck?,100,The image does not provide enough information to determine the exact number of boards that make up the deck
+546804002,546804,COCO_val2014_000000546804.jpg,count,How many tracks are there?,3,There are two tracks in the image.
+291981004,291981,COCO_val2014_000000291981.jpg,color,What color is the floor in this room?,white and gray,The floor in this room is black and white.
+537355002,537355,COCO_val2014_000000537355.jpg,object,What type of building is this?,square,This is a fire station or a fire department building. The presence of a fire hydrant in front
+217614009,217614,COCO_val2014_000000217614.jpg,yes_no,Are there a lot of rocks?,no,"No, there are no rocks in the image. The scene features a giraffe standing in a"
+408288001,408288,COCO_val2014_000000408288.jpg,yes_no,Is that snow?,no,"No, that is not snow. The image shows a man and a woman in the ocean, with"
+387250002,387250,COCO_val2014_000000387250.jpg,object,What is the kid eating?,donut,The kid is eating a doughnut.
+371364012,371364,COCO_val2014_000000371364.jpg,object,What is on couch?,kids,"There are two children sitting on the couch, playing video games."
+106120010,106120,COCO_val2014_000000106120.jpg,yes_no,Is there a tissue box in the bathroom?,no,"Yes, there is a tissue box in the bathroom."
+544444002,544444,COCO_val2014_000000544444.jpg,spatial,Where is this person?,mountain,"The person is on a snow-covered slope, likely at a ski resort or a mountainous"
+14629004,14629,COCO_val2014_000000014629.jpg,object,What is the woman drinking?,wine,The woman is drinking a bottle of wine.
+109753001,109753,COCO_val2014_000000109753.jpg,color,What color is the hand on the clock?,black,The hand on the clock is red.
+579818004,579818,COCO_val2014_000000579818.jpg,color,What color is the conductor wearing?,blue,The conductor is wearing a blue shirt.
+273086002,273086,COCO_val2014_000000273086.jpg,object,What is the little girl eating?,pastry,The little girl is eating a donut.
+105782001,105782,COCO_val2014_000000105782.jpg,spatial,Where is the kite?,in air,"The kite is in the air, flying above the dog and the person in the grassy field"
+133876000,133876,COCO_val2014_000000133876.jpg,spatial,Where is she?,hospital,"She is in a hospital bed, lying down and smiling."
+557258000,557258,COCO_val2014_000000557258.jpg,spatial,What letter is above the toilet seat in red?,x,"The letter above the toilet seat in red is ""B."""
+228436002,228436,COCO_val2014_000000228436.jpg,object,What is the color of the bike?,silver,The color of the bike is silver.
+45040009,45040,COCO_val2014_000000045040.jpg,yes_no,Is the dog going to swim?,yes,"Yes, the dog is going to swim in the ocean."
+150875001,150875,COCO_val2014_000000150875.jpg,color,What color are the flowers on the left?,red,The flowers on the left are red.
+372300004,372300,COCO_val2014_000000372300.jpg,color,What color is the person's top?,black and gray,The person's top is gray.
+285681006,285681,COCO_val2014_000000285681.jpg,count,How many plane tails do you see?,1,There are two plane tails visible in the image.
+8583029,8583,COCO_val2014_000000008583.jpg,yes_no,Is the computer monitor turned on?,no,"Yes, the computer monitor is turned on."
+480223002,480223,COCO_val2014_000000480223.jpg,spatial,Where is the plane?,sky,"The plane is in the sky, flying through the air."
+409850000,409850,COCO_val2014_000000409850.jpg,yes_no,Are the animals all male?,yes,"Yes, all the animals in the image are male."
+4134000,4134,COCO_val2014_000000004134.jpg,object,What is the person on the left doing with their hand?,shaking,The person on the left is shaking hands with the person on the right.
+572008003,572008,COCO_val2014_000000572008.jpg,yes_no,Is the person riding a horse?,yes,"Yes, the person is riding a horse in a field."
+405660006,405660,COCO_val2014_000000405660.jpg,spatial,Where is the bench?,on hill,"The bench is located on a hillside, overlooking a valley and mountains in the distance."
+105658001,105658,COCO_val2014_000000105658.jpg,spatial,What type of delicious alcohol is next to the cat?,tequila,A bottle of tequila is next to the cat.
+222635007,222635,COCO_val2014_000000222635.jpg,spatial,What is above the fireplace?,picture,"Above the fireplace, there is a map and a picture."
+143825002,143825,COCO_val2014_000000143825.jpg,object,What are these dogs playing with?,frisbee,The dogs are playing with a frisbee.
+306506001,306506,COCO_val2014_000000306506.jpg,count,How many zebras are there?,3,There are two zebras in the image.
+174231002,174231,COCO_val2014_000000174231.jpg,object,What is ironic about this photo?,cat,The irony in this photo lies in the fact that the cat is resting on top of a
+484075000,484075,COCO_val2014_000000484075.jpg,color,What color is the box of tissues?,red,The box of tissues is green.
+299001005,299001,COCO_val2014_000000299001.jpg,count,How much would six apples cost?,2.00,"In the image, there are several apples displayed at a fruit stand. To determine the cost of"
+99348001,99348,COCO_val2014_000000099348.jpg,color,What color is the sand?,brown,The sand is brown.
+153783002,153783,COCO_val2014_000000153783.jpg,object,What is around the animal's neck?,flag,There is an American flag around the animal's neck.
+195685003,195685,COCO_val2014_000000195685.jpg,color,What color is the truck?,green,The truck is green.
+108056004,108056,COCO_val2014_000000108056.jpg,color,What color is his hat?,purple,The man is not wearing a hat. He is wearing a shirt and pants.
+551454003,551454,COCO_val2014_000000551454.jpg,yes_no,Is this a clock tower?,yes,"Yes, this is a clock tower. The image shows a clock tower with a clock on each of"
+438704000,438704,COCO_val2014_000000438704.jpg,object,What is the color of the grass?,brown,The color of the grass is brown.
+224862003,224862,COCO_val2014_000000224862.jpg,yes_no,Is this bus drivable?,no,"Based on the image, the bus appears to be in a non-drivable state. It"
+497628002,497628,COCO_val2014_000000497628.jpg,count,What number of pillows are on the floor?,3,There are two pillows on the floor.
+19544009,19544,COCO_val2014_000000019544.jpg,count,How many screens do you see?,3,There are three screens visible in the image.
+386500000,386500,COCO_val2014_000000386500.jpg,color,What color is the blanket?,white,The blanket is white.
+435576002,435576,COCO_val2014_000000435576.jpg,yes_no,Is this an outdoor market?,yes,"Yes, this is an outdoor market where a man is selling vegetables."
+387696003,387696,COCO_val2014_000000387696.jpg,count,How many people are there?,3,There are three people in the image.
+20481001,20481,COCO_val2014_000000020481.jpg,spatial,Where is the mug?,on table,"The mug is on the table, next to the laptop."
+174482002,174482,COCO_val2014_000000174482.jpg,object,What is the bicycle leaning against?,pole,The bicycle is leaning against a parking meter.
+142246020,142246,COCO_val2014_000000142246.jpg,spatial,Where is the dog sleeping?,nowhere,The dog is sleeping on a couch in the living room.
+514366000,514366,COCO_val2014_000000514366.jpg,count,How many girls?,1,There are two girls in the image.
+188434012,188434,COCO_val2014_000000188434.jpg,color,What color is the floor?,brown,The floor is brown.
+489159005,489159,COCO_val2014_000000489159.jpg,yes_no,Is the plate white?,yes,"Yes, the plate is white."
+8775003,8775,COCO_val2014_000000008775.jpg,yes_no,Are posters on the wall?,yes,"Yes, there are posters on the wall."
+431693005,431693,COCO_val2014_000000431693.jpg,spatial,What is stacked beside the building?,seed,There are several tennis rackets stacked beside the building.
+276631007,276631,COCO_val2014_000000276631.jpg,color,What color is the rim of the plate?,black,The rim of the plate is white.
+274134003,274134,COCO_val2014_000000274134.jpg,spatial,Where are the books?,on bookshelf,The books are on a bookshelf in the room.
+309993001,309993,COCO_val2014_000000309993.jpg,spatial,Where are the cars?,on street,"The cars are parked on the street, near the group of people playing music."
+141501004,141501,COCO_val2014_000000141501.jpg,spatial,What is on top of the fence?,barbed wire,There is a sign on top of the fence.
+154423000,154423,COCO_val2014_000000154423.jpg,count,How many computer monitors are there?,1,There are two computer monitors on the desk.
+548894002,548894,COCO_val2014_000000548894.jpg,object,What is the design of the long sleeved shirt is the man on the left wearing?,plaid,The man on the left is wearing a long sleeved shirt with a plaid pattern
+115243000,115243,COCO_val2014_000000115243.jpg,yes_no,Is the person a teenager?,yes,"Yes, the person is a teenager."
+409239000,409239,COCO_val2014_000000409239.jpg,object,What is the plate with pizza sitting on?,table,The plate with pizza is sitting on a table.
+205370003,205370,COCO_val2014_000000205370.jpg,color,What color is her shirt?,white,Her shirt is green.
+496409001,496409,COCO_val2014_000000496409.jpg,color,What color are the skis?,white,The skis are yellow.
+1852002,1852,COCO_val2014_000000001852.jpg,color,What color is the string?,white,The string is red.
+142246014,142246,COCO_val2014_000000142246.jpg,color,What color is the comforter?,no comforter,The comforter is white.
+521282057,521282,COCO_val2014_000000521282.jpg,yes_no,Are these flowers in water?,yes,"Yes, the flowers are in water, as they are placed in a vase filled with water."
+229889023,229889,COCO_val2014_000000229889.jpg,count,How many people are in the photo?,1,There is only one person in the photo.
+513242001,513242,COCO_val2014_000000513242.jpg,count,How many spots are on the man's tie?,many,"The man's tie has a pattern of circles, which can be considered as spots. However"
+54766004,54766,COCO_val2014_000000054766.jpg,count,How many pairs of jeans can you see?,1,There are two pairs of jeans visible in the image.
+116678006,116678,COCO_val2014_000000116678.jpg,yes_no,Does the quilt look handmade?,yes,"Yes, the quilt on the bed looks handmade."
+327038005,327038,COCO_val2014_000000327038.jpg,object,What is the person pointing at?,food,The person is pointing at a pizza that is being prepared on a table.
+318461002,318461,COCO_val2014_000000318461.jpg,yes_no,Are there trees?,yes,"Yes, there are trees in the image."
+24396002,24396,COCO_val2014_000000024396.jpg,yes_no,Is there a lot of chrome?,no,"Yes, there is a lot of chrome on the motorcycle."
+366648009,366648,COCO_val2014_000000366648.jpg,object,What is green?,peas,Peas
+211491006,211491,COCO_val2014_000000211491.jpg,count,How many women in the photo?,1,There is only one woman in the photo.
+412355007,412355,COCO_val2014_000000412355.jpg,count,How many nails are in the bird feeder?,1,There are two nails in the bird feeder.
+539938003,539938,COCO_val2014_000000539938.jpg,spatial,Where is the train?,on tracks,"The train is on the tracks, traveling down the railroad."
+568426005,568426,COCO_val2014_000000568426.jpg,yes_no,Is the person left handed?,no,"Yes, the person is left-handed."
+320480001,320480,COCO_val2014_000000320480.jpg,spatial,Where are the two people working?,kitchen,"The two people are working in a restaurant kitchen, preparing food and serving customers."
+107800003,107800,COCO_val2014_000000107800.jpg,object,What kind of flag is over the center building?,irish,The flag over the center building is the flag of Ukraine.
+293537002,293537,COCO_val2014_000000293537.jpg,count,How many thumbs do you see?,1,There are two thumbs visible in the image.
+433483001,433483,COCO_val2014_000000433483.jpg,object,What is the purpose of the apparatus in the upper right hand corner?,street light,The purpose of the apparatus in the upper right hand corner is to provide lighting for the traffic
+564699000,564699,COCO_val2014_000000564699.jpg,spatial,What is hanging on the wall behind the sink?,mirror,A blue towel rack is hanging on the wall behind the sink.
+312772010,312772,COCO_val2014_000000312772.jpg,count,About how high is the skier off the jump?,2 feet,"The skier is off the jump at a considerable height, as they are flying through the air while"
+523097003,523097,COCO_val2014_000000523097.jpg,object,What is she eating?,donut,She is eating a donut.
+204067000,204067,COCO_val2014_000000204067.jpg,object,What is the man doing?,batting,"The man is playing baseball, holding a bat, and preparing to hit the ball. He is"
+101787003,101787,COCO_val2014_000000101787.jpg,spatial,What is seen above the power lines?,airplane,A plane is seen flying above the power lines in the image.
+261360000,261360,COCO_val2014_000000261360.jpg,color,What color are the frogs eyes?,yellow,The frogs eyes are yellow.
+544140002,544140,COCO_val2014_000000544140.jpg,yes_no,Is the person on the left wearing shoes?,no,"No, the person on the left is not wearing shoes."
+291144002,291144,COCO_val2014_000000291144.jpg,count,How many meters are in the photo?,2,There are two parking meters in the photo.
+375440004,375440,COCO_val2014_000000375440.jpg,yes_no,Does it look like it is a windy day?,no,"Yes, it appears to be a windy day, as the people are sitting on a bench"
+321089001,321089,COCO_val2014_000000321089.jpg,object,What type of fruit is this?,apple,This is a type of fruit called an apple.
+275751000,275751,COCO_val2014_000000275751.jpg,count,How many tracks are lined up here?,2,There are two tracks lined up in the image.
+225943008,225943,COCO_val2014_000000225943.jpg,object,What is on the table?,food,There is a plate of food on the table.
+393710002,393710,COCO_val2014_000000393710.jpg,color,What color is the boy's shirt?,blue,The boy's shirt is blue.
+104980001,104980,COCO_val2014_000000104980.jpg,spatial,Where is the man looking at?,phone,The man is looking at his cell phone.
+499826002,499826,COCO_val2014_000000499826.jpg,object,What type of animals are in the picture?,elephants,The picture features a group of elephants.
+161231012,161231,COCO_val2014_000000161231.jpg,count,How many people are standing on the platform?,8,There are two people standing on the platform.
+307995000,307995,COCO_val2014_000000307995.jpg,object,What is in the container?,wine,There is a bottle of wine in the container.
+93400008,93400,COCO_val2014_000000093400.jpg,spatial,What is in the middle on top of the TV?,mirror,A news reporter is in the middle on top of the TV.
+460379002,460379,COCO_val2014_000000460379.jpg,count,How many giraffes are there?,3,There are three giraffes in the image.
+377497002,377497,COCO_val2014_000000377497.jpg,color,What color is the background?,green,The background is green.
+94746002,94746,COCO_val2014_000000094746.jpg,object,What kind of store is this?,suits,"This is a clothing store, as evidenced by the man wearing a suit and tie"
+494608004,494608,COCO_val2014_000000494608.jpg,count,How many skiers do you see?,4,There are two skiers in the image.
+141849000,141849,COCO_val2014_000000141849.jpg,object,What are the bears sitting on?,couch,The bears are sitting on a couch.
+127092019,127092,COCO_val2014_000000127092.jpg,count,How many vehicles are there?,3,There are two vehicles in the image.
+93604000,93604,COCO_val2014_000000093604.jpg,count,How many knobs are on the stove?,6,There are four knobs on the stove.
+218290004,218290,COCO_val2014_000000218290.jpg,yes_no,Is there empty seats in the stands?,no,"Yes, there are empty seats in the stands, indicating that the game is not fully attended."
+423529000,423529,COCO_val2014_000000423529.jpg,yes_no,Will the Frisbee land near the walking path?,no,"Yes, the Frisbee is flying towards the walking path, and it is likely to land"
+490012002,490012,COCO_val2014_000000490012.jpg,count,What time does the clock say?,5:30,The clock on the tower reads 12:00.
+181574012,181574,COCO_val2014_000000181574.jpg,spatial,What is on top of the pizza?,pepperoni,There is a pizza cutter on top of the pizza.
+432962003,432962,COCO_val2014_000000432962.jpg,object,What object is the dog seen through?,mirror,The dog is seen through a car's side mirror.
+283005001,283005,COCO_val2014_000000283005.jpg,color,What color is the board?,white,The board is white.
+150224000,150224,COCO_val2014_000000150224.jpg,count,How many umbrella's are in the scene?,1,There are two umbrellas in the scene.
+125318000,125318,COCO_val2014_000000125318.jpg,yes_no,Are these beignets?,yes,"Yes, the image shows a machine filled with beignets, which are a type of dough"
+348306000,348306,COCO_val2014_000000348306.jpg,spatial,Where is the person?,scotland,The person is not visible in the image. They have left their bicycle parked next to
+280857000,280857,COCO_val2014_000000280857.jpg,yes_no,Are all doors closed?,no,"No, one of the doors is open in the kitchen."
+134278002,134278,COCO_val2014_000000134278.jpg,color,What color is the woman's shirt on the far right?,yellow,The woman's shirt on the far right is yellow.
+318204003,318204,COCO_val2014_000000318204.jpg,yes_no,Is this a city scene?,no,"No, this is not a city scene. The image shows a beach setting with a woman walking her"
+555361004,555361,COCO_val2014_000000555361.jpg,yes_no,Does the man have 20/20 vision?,yes,"Based on the image, it is not possible to determine the man's vision status with certainty"
+249643001,249643,COCO_val2014_000000249643.jpg,spatial,Where is the train headed?,mannheim hbf,"The train is headed to Mannheim, as indicated by the sign on the train."
+516871000,516871,COCO_val2014_000000516871.jpg,color,What color are the veggies?,green,The veggies are green.
+231691002,231691,COCO_val2014_000000231691.jpg,spatial,What is the train next to?,platform,"The train is next to a train station, where passengers are waiting to board the train."
+264209006,264209,COCO_val2014_000000264209.jpg,spatial,Where is the clock mounted?,wall,"The clock is mounted on the wall, next to a window."
+576927000,576927,COCO_val2014_000000576927.jpg,object,What is on the bench?,rocks,There is a rock on the bench.
+356863012,356863,COCO_val2014_000000356863.jpg,count,How many airplanes are in flight?,0,There is one airplane in flight in the image.
+562686001,562686,COCO_val2014_000000562686.jpg,spatial,Where is the train?,on tracks,"The train is on a track, traveling through a city."
+473728001,473728,COCO_val2014_000000473728.jpg,spatial,What does the sign say right below the meter?,95,"The sign says ""Beers"" right below the parking meter."
+215245005,215245,COCO_val2014_000000215245.jpg,object,What is the pattern on the zebra called?,stripes,"The pattern on the zebra is called a ""dazzle"" or ""stripes"
+19306001,19306,COCO_val2014_000000019306.jpg,color,What color is the light lit up to be?,green,The light is lit up to be green.
+434990001,434990,COCO_val2014_000000434990.jpg,yes_no,Is there a fire truck on the road?,yes,"Yes, there is a fire truck on the road, and it is passing by a police car"
+83574000,83574,COCO_val2014_000000083574.jpg,object,What is this person's reading interest?,non-fiction,"Based on the image, the person's reading interest appears to be diverse and possibly focused on non"
+314112003,314112,COCO_val2014_000000314112.jpg,count,How many hands are holding the knife?,3,There are two hands holding the knife.
+527887004,527887,COCO_val2014_000000527887.jpg,yes_no,Are there any laws against talking on your cell phone?,no,"There are no specific laws against talking on your cell phone while walking. However, some cities and countries"
+530317000,530317,COCO_val2014_000000530317.jpg,yes_no,Was this picture taken in winter?,no,"No, this picture was taken in summer."
+92177000,92177,COCO_val2014_000000092177.jpg,count,How many tiers are on the cake?,1,There are two tiers on the cake.
+305319013,305319,COCO_val2014_000000305319.jpg,count,How many people are paddling out?,1,There are two people paddling out in the image.
+275237001,275237,COCO_val2014_000000275237.jpg,object,What is the weather like?,sunny,"The weather appears to be sunny and pleasant, as the train is traveling down the tracks on"
+567011009,567011,COCO_val2014_000000567011.jpg,yes_no,Is it a cloudy day?,yes,"Yes, it is a cloudy day."
+411282032,411282,COCO_val2014_000000411282.jpg,yes_no,Is there an empty plate?,yes,"Yes, there is an empty plate on the table."
+355851004,355851,COCO_val2014_000000355851.jpg,count,How many colors are on the cake?,3,"There are three colors on the cake: white, purple, and red."
+501762001,501762,COCO_val2014_000000501762.jpg,spatial,What is behind the man?,ocean,"Behind the man, there is a beautiful ocean view."
+549728003,549728,COCO_val2014_000000549728.jpg,color,What color is the table?,white,The table is white.
+489382008,489382,COCO_val2014_000000489382.jpg,spatial,Where are the sheep?,bridge,"The sheep are in a field, walking across a bridge or a small wooden structure."
+394510015,394510,COCO_val2014_000000394510.jpg,object,What is striped?,shirt,Shirt
+102654000,102654,COCO_val2014_000000102654.jpg,color,What color is the wall behind the giraffe?,brown,The wall behind the giraffe is brown.
+322211003,322211,COCO_val2014_000000322211.jpg,color,What color is the donut box?,white,The donut box is white.
+384594011,384594,COCO_val2014_000000384594.jpg,yes_no,Can passengers get easily on the train from here?,yes,"Yes, passengers can easily get on the train from this location. In the image, the red train"
+225378009,225378,COCO_val2014_000000225378.jpg,count,How many players are there?,2,There are two players on the field.
+377635000,377635,COCO_val2014_000000377635.jpg,object,What is the white square on the ground called?,ramp,The white square on the ground is called a skateboard ramp or a skateboarding
+561814003,561814,COCO_val2014_000000561814.jpg,yes_no,Is this a tourist spot?,yes,"Yes, this is a tourist spot. The image shows a large clock tower, which is a"
+185698002,185698,COCO_val2014_000000185698.jpg,color,What color are the cakes?,pink,The cakes are pink and white.
+429985015,429985,COCO_val2014_000000429985.jpg,count,How many people shown?,3,3 people are shown in the image.
+572850003,572850,COCO_val2014_000000572850.jpg,count,How many squares are there on the tie?,50,There are four squares on the tie.
+465591003,465591,COCO_val2014_000000465591.jpg,yes_no,Is this cats hair standing up on end?,yes,"Yes, the cat's hair is standing up on end, which is a common behavior in c"
+281782011,281782,COCO_val2014_000000281782.jpg,spatial,What is next to the tree?,building,A building is next to the tree.
+116255003,116255,COCO_val2014_000000116255.jpg,object,What is the person flying?,plane,The person is flying a jet airplane.
+1000002,1000,COCO_val2014_000000001000.jpg,yes_no,Is this a camp setting?,yes,"Yes, the image shows a group of young tennis players gathered on a tennis court, which suggests that"
+497032000,497032,COCO_val2014_000000497032.jpg,object,What kind of shoes are shown?,sandals,The image shows a person wearing sandals.
+323067001,323067,COCO_val2014_000000323067.jpg,spatial,What is the purpose of the giant mug behind the snowboarder?,to promote coffee/teas,The purpose of the giant mug behind the snowboarder is to create a fun and visually
+562622005,562622,COCO_val2014_000000562622.jpg,spatial,What letter is behind the catcher?,t,"The letter ""A"" is behind the catcher."
+353577012,353577,COCO_val2014_000000353577.jpg,spatial,Where is the bicycle helmet?,heads,The bicycle helmet is on the head of the person in the yellow shorts.
+267694021,267694,COCO_val2014_000000267694.jpg,object,What is the person eating?,pizza,The person is eating a pizza.
+54011002,54011,COCO_val2014_000000054011.jpg,yes_no,Is the hydrant in use?,no,"No, the fire hydrant is not in use. It is sitting in the grass next to a"
+161161002,161161,COCO_val2014_000000161161.jpg,color,What color is the sky?,white,The sky is gray.
+488069003,488069,COCO_val2014_000000488069.jpg,object,What is the guy carrying?,phone,The guy is carrying a backpack.
+271429003,271429,COCO_val2014_000000271429.jpg,count,How many people are sitting in the bleachers?,2,There are two people sitting in the bleachers.
+337246004,337246,COCO_val2014_000000337246.jpg,color,What color is the chute?,brown,The chute is blue.
+173401003,173401,COCO_val2014_000000173401.jpg,object,What kind of topography is the animal in?,grass,"The animal, a cow, is in a lush green field with a road nearby. The top"
+372384000,372384,COCO_val2014_000000372384.jpg,color,What color is the court?,green,The court is green.
+315620001,315620,COCO_val2014_000000315620.jpg,yes_no,Are they playing at a park?,no,"Yes, the people are playing at a park."
+36942016,36942,COCO_val2014_000000036942.jpg,spatial,Where is the cat looking at?,couch,The cat is looking at the keyboard.
+37119004,37119,COCO_val2014_000000037119.jpg,color,What color are the cows?,black and white,The cows are black and white.
+98808002,98808,COCO_val2014_000000098808.jpg,spatial,What is in front of the giraffe?,bushes,"In front of the giraffe, there is a bush and a tree."
+29449004,29449,COCO_val2014_000000029449.jpg,color,What color is the toilet?,white,The toilet is white.
+351149001,351149,COCO_val2014_000000351149.jpg,count,How many toilet lids are open?,1,There are two toilet lids open in the image.
+176289005,176289,COCO_val2014_000000176289.jpg,object,What type of blinds are on the window?,horizontal,The window has vertical blinds.
+86168022,86168,COCO_val2014_000000086168.jpg,color,What color is the cat?,black and white,The cat is gray and white.
+120037002,120037,COCO_val2014_000000120037.jpg,object,What is in the air?,kite,A kite is flying in the air.
+578324003,578324,COCO_val2014_000000578324.jpg,count,How many monitors are there?,1,There are two monitors in the image.
+461774004,461774,COCO_val2014_000000461774.jpg,yes_no,Do you see the backsides of the zebras?,yes,"Yes, the image shows the backsides of the zebras as they stand in the grass"
+369840018,369840,COCO_val2014_000000369840.jpg,color,What color is the man's pants?,blue,The man's pants are blue.
+416733002,416733,COCO_val2014_000000416733.jpg,object,What is all over the couch?,clothes,"The couch is covered with clothes and blankets, giving it a cluttered appearance."
+514249000,514249,COCO_val2014_000000514249.jpg,color,What color is the fire hydrant?,white,The fire hydrant is white.
+252610002,252610,COCO_val2014_000000252610.jpg,spatial,What is to the left of the toilet?,bidet,A sink is to the left of the toilet in the image.
+69860000,69860,COCO_val2014_000000069860.jpg,color,What color are the tree's leaves?,brown,The tree's leaves are yellow.
+150538005,150538,COCO_val2014_000000150538.jpg,spatial,What is the specie of the tree he is under?,oak,"The tree under which the man is sitting is a deciduous tree, which means it loses its"
+164389001,164389,COCO_val2014_000000164389.jpg,spatial,Where is the umbrella?,background,The umbrella is in the hands of a person in the crowd.
+179500000,179500,COCO_val2014_000000179500.jpg,spatial,Where is the man's attention focused?,ball,"The man's attention is focused on the tennis ball, as he is preparing to hit it"
+553511001,553511,COCO_val2014_000000553511.jpg,count,How many cars are waiting at the light?,2,There are two cars waiting at the light.
+20371002,20371,COCO_val2014_000000020371.jpg,spatial,Where is the bird perched?,gutter,"The bird is perched on a ledge or a metal surface, such as a pipe or a"
+204059001,204059,COCO_val2014_000000204059.jpg,yes_no,Would you typically see a bench here?,no,"No, you would not typically see a bench in this location. The bench is situated on"
+511403001,511403,COCO_val2014_000000511403.jpg,spatial,Where is the USB port?,next to phone,The USB port is located on the side of the cell phone.
+436492000,436492,COCO_val2014_000000436492.jpg,yes_no,Will this project ever finish?,yes,"Based on the image, it is not possible to determine the exact progress or completion status of the project"
+208494001,208494,COCO_val2014_000000208494.jpg,yes_no,Is someone not concerned about giraffe spit?,yes,"In the image, a man is leaning in close to a giraffe's face,"
+478821002,478821,COCO_val2014_000000478821.jpg,spatial,What is in front of the zebra?,car,A tree is in front of the zebra.
+247317003,247317,COCO_val2014_000000247317.jpg,object,What are they most likely doing?,eating,The two women are most likely having a meal together at a restaurant. They are sitting at a
+282346003,282346,COCO_val2014_000000282346.jpg,color,What color are his shoes?,red,His shoes are red.
+284589002,284589,COCO_val2014_000000284589.jpg,count,How many pillows are on the bed?,3,There are two pillows on the bed.
+231568017,231568,COCO_val2014_000000231568.jpg,object,What kind of headwater is the man on the left wearing?,headband,The man on the left is wearing a headband.
+159310002,159310,COCO_val2014_000000159310.jpg,color,What color are these magic wands?,black,These magic wands are black and white.
+442175003,442175,COCO_val2014_000000442175.jpg,color,What color is the elephant?,gray,The elephant is gray.
+232088008,232088,COCO_val2014_000000232088.jpg,color,What color are the chairs?,white,The chairs are white.
+533003001,533003,COCO_val2014_000000533003.jpg,count,How many small appliances can you spot?,7,"In the image, there are several small appliances, including a blender, a toaster"
+401249000,401249,COCO_val2014_000000401249.jpg,color,What color is the man's tie?,"gold, green, and brown",The man's tie is green.
+426376002,426376,COCO_val2014_000000426376.jpg,color,What color are the pants?,gray,Gray
+382350002,382350,COCO_val2014_000000382350.jpg,spatial,What clothing emblem is featured on the wall in front of the crowd?,p,The clothing emblem featured on the wall in front of the crowd is the Pennzoil
+505792001,505792,COCO_val2014_000000505792.jpg,object,What is the man in the air doing?,snowboarding,"The man in the air is performing a trick on his snowboard, which involves jumping and f"
+424349001,424349,COCO_val2014_000000424349.jpg,spatial,Where is the pizza?,oven,"The pizza is in the oven, being cooked."
+38710000,38710,COCO_val2014_000000038710.jpg,yes_no,Is someone making dinner?,no,"Yes, someone is making dinner, as they are preparing broccoli and other vegetables in"
+209682004,209682,COCO_val2014_000000209682.jpg,color,What color is the trash can?,white,The trash can is white.
+576363000,576363,COCO_val2014_000000576363.jpg,count,How many of the shoppers are wearing hats?,0,There are no shoppers wearing hats in the image.
+483234002,483234,COCO_val2014_000000483234.jpg,object,What are leaning against the tree?,snowboards,There are several snow skis leaning against the tree.
+377706001,377706,COCO_val2014_000000377706.jpg,color,What color are their outfits?,blue,Their outfits are blue.
+66959000,66959,COCO_val2014_000000066959.jpg,yes_no,Is this a city setting?,no,"No, this is not a city setting. The image shows a train with military vehicles on it,"
+544071002,544071,COCO_val2014_000000544071.jpg,yes_no,Are they in their natural habitat?,yes,"Yes, the zebras are in their natural habitat, which is a grassy field with trees"
+247285007,247285,COCO_val2014_000000247285.jpg,count,How many people are in the photo?,3,There are two people in the photo - a man and a woman.
+390685001,390685,COCO_val2014_000000390685.jpg,yes_no,Are there any trees next to the sign?,yes,"Yes, there are trees next to the stop sign."
+353435002,353435,COCO_val2014_000000353435.jpg,spatial,Where is the syrup?,table,"The syrup is on the table, placed near the plates of food."
+2179001,2179,COCO_val2014_000000002179.jpg,spatial,Where is the skateboard ramp?,patio,The skateboard ramp is located in a backyard.
+469652003,469652,COCO_val2014_000000469652.jpg,count,How many heads do you see?,1,I see one head in the image.
+133933003,133933,COCO_val2014_000000133933.jpg,spatial,Where are the children?,living room,"The children are in a room, sitting on a couch and playing a video game."
+379402005,379402,COCO_val2014_000000379402.jpg,spatial,Where is the food?,cutting board,"The food is on a cutting board, which is placed on a kitchen counter."
+75162002,75162,COCO_val2014_000000075162.jpg,spatial,Where is the fence?,behind zebra,The fence is located behind the zebra.
+125072005,125072,COCO_val2014_000000125072.jpg,yes_no,Do people skate here?,no,"No, people do not skate here. The image shows cows walking along a beach, which"
+87364004,87364,COCO_val2014_000000087364.jpg,yes_no,Is the water calm?,no,"No, the water is not calm. It is filled with waves, making it an ideal environment for"

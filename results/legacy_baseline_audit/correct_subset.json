@@ -1,0 +1,71 @@
+[
+  {
+    "question_id": 262227003,
+    "image_id": 262227,
+    "image_filename": "COCO_val2014_000000262227.jpg",
+    "question": "What color is the ribbon?",
+    "answer": "purple",
+    "all_answers": [
+      "green",
+      "purple",
+      "purple",
+      "purple",
+      "purple",
+      "purple",
+      "blue",
+      "green",
+      "purple",
+      "there is no ribbon"
+    ],
+    "question_type_original": "what color is the",
+    "answer_type": "other",
+    "category": "color",
+    "category_original": "color"
+  },
+  {
+    "question_id": 394510015,
+    "image_id": 394510,
+    "image_filename": "COCO_val2014_000000394510.jpg",
+    "question": "What is striped?",
+    "answer": "shirt",
+    "all_answers": [
+      "his shirt",
+      "shirt",
+      "shirt",
+      "shirt",
+      "shirt",
+      "shirt",
+      "shirt",
+      "boy's shirt",
+      "shirt",
+      "boys shirt"
+    ],
+    "question_type_original": "what is",
+    "answer_type": "other",
+    "category": "object",
+    "category_original": "object"
+  },
+  {
+    "question_id": 426376002,
+    "image_id": 426376,
+    "image_filename": "COCO_val2014_000000426376.jpg",
+    "question": "What color are the pants?",
+    "answer": "gray",
+    "all_answers": [
+      "gray",
+      "beige",
+      "brown",
+      "gray",
+      "gray",
+      "beige",
+      "green",
+      "gray",
+      "khaki",
+      "tan"
+    ],
+    "question_type_original": "what color are the",
+    "answer_type": "other",
+    "category": "color",
+    "category_original": "color"
+  }
+]

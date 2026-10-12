@@ -1,0 +1,15 @@
+[
+  {
+    "question_id": 484029005,
+    "image_id": 484029,
+    "category": "color",
+    "label": "red",
+    "layers": [
+      2,
+      8,
+      16,
+      24,
+      32
+    ]
+  }
+]

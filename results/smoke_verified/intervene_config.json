@@ -1,0 +1,39 @@
+{
+  "stage": "intervene",
+  "subset": "results\\smoke_verified\\correct_subset.json",
+  "images": "D:\\PythonCode\\LLAVA\\data\\vqav2\\images\\val2014",
+  "output": "results\\smoke_verified",
+  "questions": "D:\\PythonCode\\LLAVA\\data\\vqav2\\questions\\v2_OpenEnded_mscoco_val2014_questions.json",
+  "annotations": "D:\\PythonCode\\LLAVA\\data\\vqav2\\annotations\\v2_mscoco_val2014_annotations.json",
+  "per_category": 60,
+  "seed": 42,
+  "predictions": "D:\\PythonCode\\LLAVA\\results\\vqav2_baseline_300.csv",
+  "reclassify": false,
+  "correct_threshold": 1.0,
+  "model": "llava-hf/llava-1.5-7b-hf",
+  "quantization": "4bit",
+  "allow_download": false,
+  "limit": 1,
+  "grid": 4,
+  "top_k": 3,
+  "fill": "mean",
+  "random_controls": 3,
+  "attention": true,
+  "plots": true,
+  "layers": [
+    2,
+    8,
+    16,
+    24,
+    32
+  ],
+  "features": "D:\\PythonCode\\LLAVA\\results\\visual_reliance",
+  "folds": 5,
+  "interventions": null,
+  "manifest": null,
+  "protocol_version": "llava-vr-1",
+  "sample_ids": [
+    484029005
+  ],
+  "subset_sha256": "4a04a238fb3f657f8848f2c0ba870d6bc5b868a32ac0ef9960bf06c40606741c"
+}

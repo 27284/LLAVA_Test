@@ -1,0 +1,2 @@
+﻿question_id,image_id,category,target,token_count,original_log_probability,visual_reliance,visual_reliance_per_token,random_reliance,excess_reliance,attention_pearson,attention_spearman
+484029005,484029,color,red,1,-10.28572940826416,5.622236251831055,5.622236251831055,1.162258466084798,4.459977785746257,0.5874341922136941,0.15588235294117647

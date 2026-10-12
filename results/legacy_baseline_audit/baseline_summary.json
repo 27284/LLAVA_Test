@@ -1,0 +1,151 @@
+{
+  "metrics": {
+    "overall": {
+      "soft_accuracy": {
+        "n": 300,
+        "images": 298,
+        "mean": 0.01,
+        "ci95": [
+          0.0,
+          0.023178807947019868
+        ]
+      },
+      "exact_match": {
+        "n": 300,
+        "images": 298,
+        "mean": 0.013333333333333334,
+        "ci95": [
+          0.0033109850720171355,
+          0.026758097461336443
+        ]
+      }
+    },
+    "color": {
+      "soft_accuracy": {
+        "n": 65,
+        "images": 65,
+        "mean": 0.03076923076923077,
+        "ci95": [
+          0.0,
+          0.07692307692307693
+        ]
+      },
+      "exact_match": {
+        "n": 65,
+        "images": 65,
+        "mean": 0.03076923076923077,
+        "ci95": [
+          0.0,
+          0.07692307692307693
+        ]
+      }
+    },
+    "count": {
+      "soft_accuracy": {
+        "n": 54,
+        "images": 54,
+        "mean": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ]
+      },
+      "exact_match": {
+        "n": 54,
+        "images": 54,
+        "mean": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "object": {
+      "soft_accuracy": {
+        "n": 56,
+        "images": 56,
+        "mean": 0.017857142857142856,
+        "ci95": [
+          0.0,
+          0.05357142857142857
+        ]
+      },
+      "exact_match": {
+        "n": 56,
+        "images": 56,
+        "mean": 0.03571428571428571,
+        "ci95": [
+          0.0,
+          0.08928571428571429
+        ]
+      }
+    },
+    "other": {
+      "soft_accuracy": {
+        "n": 5,
+        "images": 5,
+        "mean": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ]
+      },
+      "exact_match": {
+        "n": 5,
+        "images": 5,
+        "mean": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "spatial": {
+      "soft_accuracy": {
+        "n": 60,
+        "images": 60,
+        "mean": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ]
+      },
+      "exact_match": {
+        "n": 60,
+        "images": 60,
+        "mean": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "yes_no": {
+      "soft_accuracy": {
+        "n": 60,
+        "images": 60,
+        "mean": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ]
+      },
+      "exact_match": {
+        "n": 60,
+        "images": 60,
+        "mean": 0.0,
+        "ci95": [
+          0.0,
+          0.0
+        ]
+      }
+    }
+  },
+  "total_expected": 300,
+  "evaluated": 300,
+  "missing": 0,
+  "correct": 3,
+  "threshold": 1.0,
+  "reclassified": true,
+  "predictions": "D:\\PythonCode\\LLAVA\\results\\vqav2_baseline_300.csv"
+}
